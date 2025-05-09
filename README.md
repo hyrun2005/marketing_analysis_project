@@ -38,8 +38,8 @@ An end-to-end Power BI project that tracks product funnel performance, audience 
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/yourusername/marketing-analytics.git
-   cd marketing-analytics
+   git clone https://github.com/hyrun2005/marketing_analysis_project.git
+   cd marketing_analysis_project
 2. **Open da_project_customer.pbix in Power BI Desktop**
 
     - Interact with slicers (Year, Month, Product, Sentiment) and drill-through to explore trends
